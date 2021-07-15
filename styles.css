@@ -1,0 +1,13 @@
+body {
+  background: #262626;
+}
+
+.box-area {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.single-box {
+  position:  relative;
+}
